@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\NewLab15\NewLab15\bin\Debug\NewLab15.exe.config
+c:\users\user\documents\visual studio 2015\Projects\NewLab15\NewLab15\bin\Debug\NewLab15.exe
+c:\users\user\documents\visual studio 2015\Projects\NewLab15\NewLab15\bin\Debug\NewLab15.pdb
+c:\users\user\documents\visual studio 2015\Projects\NewLab15\NewLab15\obj\Debug\NewLab15.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\NewLab15\NewLab15\obj\Debug\NewLab15.exe
+c:\users\user\documents\visual studio 2015\Projects\NewLab15\NewLab15\obj\Debug\NewLab15.pdb

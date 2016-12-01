@@ -1,0 +1,8 @@
+﻿namespace ListOfCountries
+{
+    class CountryTextFile
+    {
+
+
+    }
+}
